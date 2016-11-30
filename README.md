@@ -15,7 +15,7 @@ Installation & Usage
 
 	b) Type 'add repository', then press 'enter' with 'Package Control: Add Repository` selected).
 
-	c) Enter the URL 'https://bitbucket.org/mstrlaw/opzio-sublime' in the prompt interface and press 'enter'.
+	c) Enter the URL 'https://github.com/opzio/opzio-sublime' in the prompt interface and press 'enter'.
 
 	d) Press `ctrl+shift+p`(Windows, Linux) or `cmd+shift+p`(OS X) to re-open Package Controll.
   
